@@ -3,16 +3,15 @@
 /* Challenge One Specific*/
 
 
-.heading{
+.heading, h1{
 	text-align: center;
 	font-style: Cursive;
-	color:#6E3DFF
+	color:#6E3DFF;
 }
 
 .hidden{
 	display: none;
 }
-
 
 
 /* Challenge Three  Specific*/
